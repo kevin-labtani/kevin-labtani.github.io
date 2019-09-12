@@ -17,7 +17,7 @@ As Ralph Waldo Emerson said:
 This project is licensed under the MIT License
 
 
-## Acknowledgments
+## Remerciements
 
 * [Dinesh Pandyian](https://github.com/flexdinesh) pour avoir créé le modèle
 * [BeCode](https://www.becode.org/) pour la formation
