@@ -6,7 +6,7 @@
 originalement créée le 12 Septembre 2019 par __Kevin Labtani__
 dans le cadre de la formation Web Developer donnée par [BeCode](https://www.becode.org/), dans le but d'apprendre le Markdown et de perfectionner mes compétences sur git.
 
-Page basée sur [Developer Landing Page](https://github.com/flexdinesh/dev-landing-page) de Dinesh Pandiyan
+Page basée sur [Developer Landing Page](https://github.com/flexdinesh/dev-landing-page) de Dinesh Pandiyan, en suivant [ses instructions](https://dev.to/flexdinesh/create-your-developer-landing-page-with-github-pages---42jk)
 
 [Cette page](kevin-labtani.github.io) sera mise à jour quand mes compétences en Front End évolueront.  
 As Ralph Waldo Emerson said:
